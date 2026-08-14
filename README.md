@@ -31,6 +31,31 @@ A beginner-friendly C++ console application for tracking daily expenses and prac
 - `switch`
 - `do-while` loop
 - `for` loop
+
+- ## ✅ Sprint 2 - Expense Calculation & Summary
+
+### Features Added
+
+- Added Total Expense option
+- Calculate total amount spent
+- Display expense-wise amount breakdown
+- Display number of expenses
+- Added storage limit handling
+
+### Concepts Practiced
+
+- Arrays
+- `for` loops
+- `do-while` loops
+- `switch` statements
+- Array indexing
+- Counters
+- Accumulator variables
+- Arithmetic operations
+
+### What I Learned
+
+In this sprint, I learned how to process multiple stored values using loops and calculate a cumulative total using an accumulator variable.
 - Array indexing
 - Menu-driven programming
 - 📊 Category-wise spending / statistics
