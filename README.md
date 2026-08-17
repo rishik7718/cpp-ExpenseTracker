@@ -99,3 +99,28 @@ In this sprint, I learned how to delete an element from fixed-size arrays. Since
 - 🗂️ Category-based Analysis
 - 💾 File Handling for Permanent Data Storage
 - 🏛️ Object-Oriented Version using Classes
+
+
+### ✅Sprint 4 — CRUD Update Functionality
+
+Added the Update operation to complete the basic CRUD functionality of the Expense Tracker.
+
+#### Features Added
+- Edit an existing expense
+- Edit description
+- Edit category
+- Edit amount
+- Validate expense number
+- Validate edit choice
+
+#### 🚧Concepts Practiced
+- Nested switch statements
+- Array indexing
+- Conditional statements
+- Input validation
+- Updating existing array elements
+- CRUD operations
+
+#### 🚧What I Learned
+
+This sprint helped me understand how existing data can be modified using array indexing. I also learned how the Update operation works as part of CRUD functionality and practiced nested decision-making using switch statements.
