@@ -61,3 +61,41 @@ In this sprint, I learned how to process multiple stored values using loops and 
 - 📊 Category-wise spending / statistics
 - ✅ Input validation
 - 💾 File handling
+
+- ## ✅ Sprint 3 - Delete Expense
+
+### Features Added
+
+- Added a Delete Expense option
+- Display all expenses before deletion
+- Delete an expense using its expense number
+- Added deletion confirmation using y/n
+- Added invalid expense number handling
+- Shifted remaining expenses after deletion
+- Updated expense count after deletion
+- Added deletion cancellation
+
+### Concepts Practiced
+
+- Array indexing
+- Linear searching through array positions
+- `for` loops
+- Conditional statements
+- Parallel arrays
+- Array element shifting
+- Updating array size/count
+- Input validation
+- User confirmation
+- Menu-driven programming
+
+### What I Learned
+
+In this sprint, I learned how to delete an element from fixed-size arrays. Since arrays cannot directly remove an element, the remaining elements are shifted one position to the left and the expense count is reduced.
+
+## 🚧 Upcoming Features
+
+- ✏️ Edit Expense Records
+- 📊 Expense Statistics
+- 🗂️ Category-based Analysis
+- 💾 File Handling for Permanent Data Storage
+- 🏛️ Object-Oriented Version using Classes
