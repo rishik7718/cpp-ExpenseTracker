@@ -124,3 +124,40 @@ Added the Update operation to complete the basic CRUD functionality of the Expen
 #### 🚧What I Learned
 
 This sprint helped me understand how existing data can be modified using array indexing. I also learned how the Update operation works as part of CRUD functionality and practiced nested decision-making using switch statements.
+
+## ✅ Sprint 5 – Search & Category Analysis
+
+###🚧 Features Added
+- Search expenses by category
+- Display all expenses belonging to a selected category
+- Calculate total expenses for the selected category
+- Added `bool` flag to track whether a category was found
+- Added validation for invalid categories
+- Improved user interaction and output formatting
+
+###🚧 Concepts Learned
+- `bool` data type
+- `true` and `false`
+- Boolean conditions using `!`
+- Searching through arrays
+- Accumulator variables
+- Conditional statements
+- `for` loops
+- String comparison
+- Combining multiple concepts into one feature
+
+- 
+###🚧 What I Learned
+- `bool` data type
+- `true` and `false`
+- NOT operator `!`
+- Searching through arrays using loops
+- Comparing strings using `==`
+- Using a boolean flag to track whether something was found
+- Using an accumulator variable to calculate totals
+- Understanding `categorytotal = categorytotal + amount[i]`
+- Combining `for` loops with `if` conditions
+- Applying multiple concepts together to build a real feature
+
+
+
