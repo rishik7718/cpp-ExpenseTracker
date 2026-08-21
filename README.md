@@ -159,5 +159,86 @@ This sprint helped me understand how existing data can be modified using array i
 - Combining `for` loops with `if` conditions
 - Applying multiple concepts together to build a real feature
 
+- ✅# Expense Tracker - Sprint 6
 
+## Project Evolution
+
+This is Sprint 6 of my C++ Expense Tracker project.
+
+In the previous sprints, I built the main features of the Expense Tracker such as adding, viewing, calculating, deleting, editing, and searching expenses.
+
+In this sprint, I focused on improving the way the program handles user input.
+
+---
+
+## Features
+
+- Add a new expense
+- View all expenses
+- Calculate total expenses
+- Delete an expense
+- Edit an existing expense
+- Search expenses by category
+- Calculate total expenses for a searched category
+- Prevent negative expense amounts
+- Handle invalid delete confirmation input
+- Improved user input flow
+- Exit the program with an expense count summary
+
+---
+
+## Concepts I Learned
+
+- Input validation
+- `do-while` loops
+- Boolean expressions
+- Logical operators such as `&&` and `||`
+- Comparing user input
+- Validating expense numbers
+- Validating user confirmation input
+- Improving program reliability
+- Debugging input-related problems
+
+---
+
+## What I Improved in This Sprint
+
+### 1. Negative Amount Validation
+
+I worked on preventing invalid negative expense amounts from being added to the Expense Tracker.
+
+### 2. Delete Confirmation Validation
+
+The delete option now handles confirmation input more carefully.
+
+The user is expected to enter:
+
+- `y` for Yes
+- `n` for No
+
+This helped me understand how logical conditions can be used to validate user input.
+
+### 3. Better Understanding of Loops and Conditions
+
+While improving the input system, I practiced using conditions together with loops to control program flow.
+
+---
+
+## Concepts Used in the Project
+
+- Variables
+- Arrays
+- Strings
+- `if-else`
+- `switch-case`
+- `for` loops
+- `do-while` loops
+- Boolean variables
+- Logical operators
+- Input validation
+- Array element shifting
+- Searching
+- Updating values
+
+---
 
