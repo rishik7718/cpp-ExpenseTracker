@@ -241,4 +241,47 @@ While improving the input system, I practiced using conditions together with loo
 - Updating values
 
 ---
+✅ Sprint 7 – Expense Insights
+
+🚧 Features Added
+Added a new Expense Insights section
+Added Highest Expense feature
+Added Lowest Expense feature
+Added Average Expense feature
+Created a separate submenu for expense insights
+Added validation to prevent accessing insights when there are no expenses
+Improved the Expense Tracker with basic expense analysis
+
+🚧 Concepts Learned
+Finding maximum values
+Finding minimum values
+Array traversal
+Comparison using if conditions
+Initializing variables with the first array element
+Calculating averages
+Type casting using (float)
+Integer division vs floating-point division
+Nested menus
+do-while loops
+
+🚧 What I Learned
+How to find the highest value in an array
+How to find the lowest value in an array
+Why we initialize current_highest and current_lowest with amount[0]
+How to compare every expense with the current highest expense
+How to update the highest value when a bigger expense is found
+How to compare every expense with the current lowest expense
+How to update the lowest value when a smaller expense is found
+How to calculate the total before finding the average
+How to calculate the average expense
+Why (float)totalexpense / expensecount is needed for decimal results
+The difference between integer division and floating-point division
+How to create a submenu using do-while and switch
+How to combine multiple calculations into an Expense Insights feature
+
+
+## 👨‍💻 Author
+
+Rishik
+First Year Engineering Student
 
