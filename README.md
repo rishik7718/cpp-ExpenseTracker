@@ -22,7 +22,7 @@ A beginner-friendly C++ console application for tracking daily expenses and prac
 - 🔍 Search expenses
 - 🗑️ Delete expenses
 
-- ### Concepts Practiced
+- 🎯 Concepts Practiced
 
 - Arrays
 - Strings
@@ -34,7 +34,7 @@ A beginner-friendly C++ console application for tracking daily expenses and prac
 
 - ## ✅ Sprint 2 - Expense Calculation & Summary
 
-### Features Added
+🎯 Features Added
 
 - Added Total Expense option
 - Calculate total amount spent
@@ -42,7 +42,7 @@ A beginner-friendly C++ console application for tracking daily expenses and prac
 - Display number of expenses
 - Added storage limit handling
 
-### Concepts Practiced
+🎯 Concepts Practiced
 
 - Arrays
 - `for` loops
@@ -53,7 +53,7 @@ A beginner-friendly C++ console application for tracking daily expenses and prac
 - Accumulator variables
 - Arithmetic operations
 
-### What I Learned
+##🎯 What I Learned
 
 In this sprint, I learned how to process multiple stored values using loops and calculate a cumulative total using an accumulator variable.
 - Array indexing
@@ -64,7 +64,7 @@ In this sprint, I learned how to process multiple stored values using loops and 
 
 - ## ✅ Sprint 3 - Delete Expense
 
-### Features Added
+🎯 Features Added
 
 - Added a Delete Expense option
 - Display all expenses before deletion
@@ -75,7 +75,7 @@ In this sprint, I learned how to process multiple stored values using loops and 
 - Updated expense count after deletion
 - Added deletion cancellation
 
-### Concepts Practiced
+#🎯 Concepts Practiced
 
 - Array indexing
 - Linear searching through array positions
@@ -88,7 +88,7 @@ In this sprint, I learned how to process multiple stored values using loops and 
 - User confirmation
 - Menu-driven programming
 
-### What I Learned
+🎯 What I Learned
 
 In this sprint, I learned how to delete an element from fixed-size arrays. Since arrays cannot directly remove an element, the remaining elements are shifted one position to the left and the expense count is reduced.
 
