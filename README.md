@@ -280,6 +280,72 @@ How to create a submenu using do-while and switch
 How to combine multiple calculations into an Expense Insights feature
 
 
+## ✅ Sprint 8 - Advanced Expense Management & Budget Features
+
+Sprint 8 significantly expands the Expense Tracker into a more complete expense management application.
+
+### Features
+
+- Add new expenses
+- View all expenses
+- Calculate total expenses
+- Delete expenses
+- Edit existing expenses
+- Search expenses by category
+- Calculate category-wise expense totals
+- View the highest expense
+- View the lowest expense
+- Calculate average expenses
+- Set a personal budget
+- View budget status
+- Calculate remaining budget
+- Detect when the budget has been exceeded
+- Support up to 100 expenses
+- Basic negative amount validation
+
+## Concepts Used
+
+- Arrays
+- Strings
+- Variables and data types
+- `if-else`
+- `switch-case`
+- `for` loops
+- `do-while` loops
+- Nested conditions
+- Boolean flags
+- Searching
+- Array shifting for deletion
+- Updating array data
+- Aggregation and calculations
+
+## Sprint 8 Learning Highlights
+
+In this sprint, I practiced managing multiple related arrays to store expense descriptions, categories, and amounts.
+
+I also implemented CRUD-style operations:
+
+- **Create** — Add expenses
+- **Read** — View and search expenses
+- **Update** — Edit expenses
+- **Delete** — Remove expenses
+
+Additionally, I implemented basic expense analytics and budget management using loops and conditional logic.
+
+## Future Improvements
+
+Future versions will focus on:
+
+- Improving input validation
+- Handling invalid numeric input
+- Supporting multi-word descriptions
+- Reducing repeated code
+- Using functions for better code organization
+- Using structures/classes for better data management
+- File handling for permanent expense storage
+- More advanced expense analytics
+
+
 ## 👨‍💻 Author
 
 Rishik
