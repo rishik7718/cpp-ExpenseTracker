@@ -345,6 +345,78 @@ Future versions will focus on:
 - File handling for permanent expense storage
 - More advanced expense analytics
 
+- #✅ Sprint 9: Added File Handling and Data Persistence
+
+## File Handling and Data Persistence
+
+In Sprint 9, the Expense Tracker was upgraded with file handling to make expense and budget data persistent.
+
+Previously, all data was stored only in arrays and variables, so everything was lost when the program was closed. This sprint solves that problem by saving data into files and loading it again when the program starts.
+
+## Features Added
+
+* Added file handling using `<fstream>`
+* Saved all expenses permanently in `expenses.txt`
+* Automatically loaded previous expenses when the program starts
+* Updated `expenses.txt` after adding an expense
+* Updated `expenses.txt` after deleting an expense
+* Updated `expenses.txt` after editing an expense
+* Saved the user's budget permanently in `budget.txt`
+* Automatically loaded the previous budget when the program starts
+* Data now remains available even after closing and reopening the program
+
+## File Handling Concepts Learned
+
+### `ofstream`
+
+Used to write data into files.
+
+```cpp
+ofstream file("expenses.txt");
+```
+
+### `ifstream`
+
+Used to read data from files.
+
+```cpp
+ifstream file("expenses.txt");
+```
+
+### Saving Multiple Expenses
+
+The program loops through all stored expenses and writes their description, category, and amount into the file.
+
+### Loading Expenses
+
+When the program starts, the saved expense data is read from `expenses.txt` and stored back into the arrays.
+
+## Files Used
+
+* `expenses.txt` - Stores all expense data
+* `budget.txt` - Stores the user's budget
+
+## Project Progress
+
+The Expense Tracker can now:
+
+* Add expenses
+* View expenses
+* Calculate total expenses
+* Delete expenses
+* Edit expenses
+* Search expenses by category
+* Show expense insights
+* Manage budgets
+* Save expense data permanently
+* Load previous expense data automatically
+* Save and load the budget permanently
+
+## Sprint Status
+
+Sprint 9 completed successfully.!!!
+
+
 
 ## 👨‍💻 Author
 
