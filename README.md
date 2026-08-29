@@ -105,7 +105,7 @@ In this sprint, I learned how to delete an element from fixed-size arrays. Since
 
 Added the Update operation to complete the basic CRUD functionality of the Expense Tracker.
 
-#### Features Added
+#🚧 Features Added
 - Edit an existing expense
 - Edit description
 - Edit category
@@ -161,7 +161,7 @@ This sprint helped me understand how existing data can be modified using array i
 
 - ✅# Expense Tracker - Sprint 6
 
-## Project Evolution
+## 🚧Project Evolution
 
 This is Sprint 6 of my C++ Expense Tracker project.
 
@@ -171,7 +171,7 @@ In this sprint, I focused on improving the way the program handles user input.
 
 ---
 
-## Features
+##🚧 Features
 
 - Add a new expense
 - View all expenses
@@ -187,7 +187,7 @@ In this sprint, I focused on improving the way the program handles user input.
 
 ---
 
-## Concepts I Learned
+##🚧 Concepts I Learned
 
 - Input validation
 - `do-while` loops
@@ -201,7 +201,7 @@ In this sprint, I focused on improving the way the program handles user input.
 
 ---
 
-## What I Improved in This Sprint
+##🚧 What I Improved in This Sprint
 
 ### 1. Negative Amount Validation
 
