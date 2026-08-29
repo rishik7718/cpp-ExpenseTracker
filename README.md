@@ -416,6 +416,48 @@ The Expense Tracker can now:
 
 Sprint 9 completed successfully.!!!
 
+# Expense Tracker – Sprint 9
+
+## 🚀 Sprint 9 – File Handling & Input Validation
+
+In this sprint, the Expense Tracker was upgraded to store data permanently using file handling and improved input validation for important user inputs.
+
+### ✨ Features Added
+
+* Added file handling using `fstream`.
+* Expenses are automatically saved to `expenses.txt`.
+* Expenses are loaded automatically when the program starts.
+* Budget is saved to `budget.txt`.
+* Saved budget is loaded when the program starts.
+* Added validation for the main menu choice.
+* Added validation for expense amounts.
+* Added validation for edited expense amounts.
+* Added validation for budget input.
+* Improved delete-expense number validation.
+* Existing expense features continue to work with persistent data.
+
+### 🧠 Concepts Learned
+
+* `ifstream` for reading data from files.
+* `ofstream` for writing data to files.
+* `getline()` for reading string data.
+* File opening and closing.
+* Persistent data storage.
+* `cin.fail()`, `cin.clear()` and `cin.ignore()` for input validation.
+* Using loops to repeatedly request valid input.
+
+### 📌 Current Data Files
+
+* `expenses.txt` → Stores all expense records.
+* `budget.txt` → Stores the current budget.
+
+### 🎯 Sprint Outcome
+
+The Expense Tracker is no longer completely dependent on temporary program memory. Expenses and budget information can now survive after the program is closed and opened again.
+
+Further improvements to input structure and advanced data management will be handled in later sprints.
+
+
 
 
 ## 👨‍💻 Author
