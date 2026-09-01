@@ -458,6 +458,13 @@ The Expense Tracker is no longer completely dependent on temporary program memor
 Further improvements to input structure and advanced data management will be handled in later sprints.
 
 
+Finally completed this project !!!  
+
+This project helped me strengthen my C++ fundamentals while learning file handling, data persistence, input validation, and CRUD operations.
+It is a beginner-level project, but it marks an important step toward building larger and more practical software projects.
+
+
+
 
 
 ## 👨‍💻 Author
