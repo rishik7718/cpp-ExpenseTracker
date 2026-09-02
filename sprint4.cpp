@@ -2,6 +2,7 @@
 #include<string>
 using namespace std;
 int main()
+
 {
     int choice,i,amount[100];
 	string description[100],category[100];
